@@ -1,4 +1,4 @@
-football
+football api built in Symfony
 ========
 
-A Symfony project created on July 25, 2016, 12:06 pm.
+A simple REST API which perform actions on football players, teams and competitions.
