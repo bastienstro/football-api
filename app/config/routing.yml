@@ -1,0 +1,9 @@
+    
+players: 
+    type: rest
+    resource: ApiBundle\Controller\PlayersController
+    prefix: /api
+
+    
+fos_oauth_server_token:
+    resource: "@FOSOAuthServerBundle/Resources/config/routing/token.xml"
